@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>109412766062-c8gu28l2ms12lp618qbqhu5k8o7q0vkn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.109412766062-c8gu28l2ms12lp618qbqhu5k8o7q0vkn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmkod7IOVIUKkGT80R8bLVWAH2mmrhkLs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>109412766062</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>me.sokhra</string>
+	<key>PROJECT_ID</key>
+	<string>sokhra-5c181</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sokhra-5c181.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:109412766062:ios:645d99592a1f2e1388b17f</string>
+</dict>
+</plist>

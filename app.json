@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Sokhra",
+    "slug": "sokhra-0xkmr-c1ilyydz6mn9vbl",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain"
+    },
+    "userInterfaceStyle": "light",
+    "scheme": "sokhra.me",
+    "ios": {
+      "bundleIdentifier": "me.sokhra",
+      "googleServicesFile": "./config/GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "me.sokhra",
+      "googleServicesFile": "./config/google-services.json"
+    },
+    "plugins": [
+      "expo-router",
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your camera."
+        }
+      ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d4028bd3-27e0-4bc0-baaa-0f04785d85cf"
+      }
+    },
+    "owner": "samych02"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "109412766062",
+    "project_id": "sokhra-5c181",
+    "storage_bucket": "sokhra-5c181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109412766062:android:8c1751db3abd467f88b17f",
+        "android_client_info": {
+          "package_name": "me.sokhra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-UdQ9dLXwjh5feTPl6m-Us6PhsAaWqwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109412766062-idf00jsf9he4bj8edai0ppnf7l5krsnv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.Sokhra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
